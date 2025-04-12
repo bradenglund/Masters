@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1,On The Range
+https://live.masters.com/out/v1/02c3d0a23d6c4fa1864b7ac4d25aa7fb/otr-d-web/otr-d-web.m3u8
+
 #EXTINF:-1,Featured Group
 https://live.masters.com/out/v1/8ca0fc74182e404789aa565535218395/fg-d-web/fg-d-web.m3u8
 
